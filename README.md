@@ -1,7 +1,7 @@
 # Chatting-App
 _________________________________________________________________________________________________________________
-<img src="https://user-images.githubusercontent.com/75658978/110121711-bce3e700-7de4-11eb-9e69-e967a46f980d.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-![screen_1]() {:height="50%" width="50%"}
+![screen_1]<img src="https://user-images.githubusercontent.com/75658978/110121711-bce3e700-7de4-11eb-9e69-e967a46f980d.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="800" />
+
 __________________________________________________________________________________________________________________
 
 ![screen_2](https://user-images.githubusercontent.com/75658978/110121740-c705e580-7de4-11eb-87a3-7a4ffa6678e6.png)
